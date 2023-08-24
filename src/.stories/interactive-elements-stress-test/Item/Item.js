@@ -1,5 +1,5 @@
 import React from 'react';
-import {sortableElement} from '../../../../src';
+import {sortableElement} from '../../..';
 
 import styles from './Item.scss';
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import {sortableContainer} from '../../../src';
+import {sortableContainer} from '../..';
 
 import Item from './Item';
 

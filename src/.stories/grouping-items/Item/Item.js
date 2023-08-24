@@ -1,6 +1,6 @@
 import React from 'react';
 import classNames from 'classnames';
-import {sortableElement} from '../../../../src';
+import {sortableElement} from '../../..';
 
 import styles from './Item.scss';
 
